@@ -1,0 +1,21 @@
+{
+
+    "is_debug": true,
+    "router_ip": "127.0.0.1",
+    "router_port": 20000,
+    "db": {
+        "host": "127.0.0.1:3306",
+        "user": "root",
+        "password": "88888888",
+        "database": "game"
+
+    },
+    "db_logs": {
+        "host": "localhost:3306",
+        "user": "root",
+        "password": "88888888",
+        "database": "game_logs"
+
+    }
+}
+
